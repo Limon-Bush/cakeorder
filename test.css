@@ -1,0 +1,130 @@
+.item1{
+    font-size: 60px; 
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.container1{
+    height: 200px;
+    width: auto;
+    background-color: black;
+}
+
+.container2{
+    height: 500px;
+    width: auto;
+    background-color: aquamarine;
+}
+
+.item2{
+    font-size: 50px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.container3{
+    height: 100px;
+    width: auto;
+    background-color: chocolate;
+}
+
+.item3{
+    display: flex;
+    justify-content: end;
+    padding-top: 30px;
+    padding-right: 20%;
+}
+
+.container4{
+    height: 100px;
+    width: auto;
+    background-color: beige;
+}
+
+.item4{
+    display: flex;
+    justify-content: end;
+    padding-top: 40px;
+    padding-right: 20%;
+}
+
+.container5{
+    height: 100px;
+    width: auto;
+    background-color: cadetblue;
+
+}
+
+.item5{
+    display: flex;
+    justify-content: end;
+    padding-top: 30px;
+    padding-right: 20%;
+}
+
+#sendEmail{
+    position: relative;
+    top: -10px;
+    bottom: auto;
+    left: 10px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    border-radius: 25px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+       
+}
+
+.container2_1{
+    display: grid;
+    grid-template: 1fr 1fr 1fr 1fr/ 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.image21{
+    
+    width: 230px;
+    height: 120px;
+    
+    background-image: url(https://i.imgur.com/8wUEmU5.jpg);
+    background-size: 140px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 25px;
+}
+
+.item25{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    text-align: center;
+    padding: 10px 50px 20px 20px;
+}
+
+.item26{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    text-align: center;
+    padding: 10px 50px 20px 20px;
+}
+
+.item27{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    text-align: center;
+    padding: 10px 50px 20px 20px;
+}
+
+.item28{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    text-align: center;
+    padding: 10px 50px 20px 20px;
+}
